@@ -27,6 +27,9 @@ def test_multivariate_regression_incremental():
             #ds = data(X[i:i+1], targets[i:i+1])
             X_i = X[i:i + 1]
             y_i = y[i:i + 1]
+
+            #print X_i, y_i
+            #assert(False)
             nn.fit(X_i, y_i)
             #print X_i, y_i
             # ann.monitor.report_epoch()
