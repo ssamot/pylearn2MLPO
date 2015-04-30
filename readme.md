@@ -1,4 +1,4 @@
 pylearn2MLPO
 ===
 
-This project has moved here: -->  by https://github.com/aigamedev/scikit-neuralnetwork
+This project has moved here: -->   https://github.com/aigamedev/scikit-neuralnetwork
